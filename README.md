@@ -5,7 +5,7 @@
 ## Материалы
 Материалы взяты из открытых источников:
 - [Статья в википедии про алгоритм Дейкстра](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-- [Викиконспект про алгоритм A*](https://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_A*#:~:text=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%20%D0%90*%20\(%D0%B0%D0%BD%D0%B3%D0%BB.,%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BE%20%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B9.\)
+- [Статья в википедии про алгоритм A*](https://ru.wikipedia.org/wiki/A*)
 - [Статья в википедии про алгоритм IDA*](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
 
 
